@@ -4,7 +4,7 @@
 13 PRINT "K.Katsambalou & A. Fotiou"
 14 print "compiled by jojo, V2.1, 7 MAR 1986"
 15 rc = 1.37E-15
-16 PRINT "input: (1)-HATT to TM-3"
+16 PRINT "input: (1)HATT to TM-3"
 17 PRINT "       (2)TM-3 to HATT"
 18 INPUT i1
 19 PRINT "input: (1)- 30x30 sheets"
